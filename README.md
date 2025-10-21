@@ -22,8 +22,8 @@
 
 ## 下面的内容为html文件修改记录
 2025.10.21
-1. 本站成功出生，是个女孩子，4.6两（bushi）/
-    本文是学习[classicalqy.github.io](https://classicalqy.github.io/website_building/)的方法出生 /
+1. 本站成功出生，是个女孩子，4.6两（bushi）
+    本文是学习[classicalqy.github.io](https://classicalqy.github.io/website_building/)的方法出生 
     第一个html代码为[classicalqy.github.io](https://classicalqy.github.io/website_building/)中的
     
     ````
