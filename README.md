@@ -17,3 +17,27 @@
     1. 刷机历程 
        1. 小米平板5 
 4. 本站的修改记录md文件
+5. 站主的mtf日常
+6. 。。。
+
+## 下面的内容为html文件修改记录
+2025.10.21
+1.本站成功出生，4.6两（bushi）
+    本文是学习[classicalqy.github.io](https://classicalqy.github.io/website_building/)的方法出生
+    第一个html代码为[classicalqy.github.io](https://classicalqy.github.io/website_building/)中的
+    ```
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>我的个人网站</title>
+    </head>
+    <body>
+        <h1>你好，世界！</h1>
+        <p>欢迎来到我的第一个个人网站。这里是使用 GitHub Pages 搭建的。</p>
+    </body>
+    </html>
+    ```
+2.md文件的编辑
+    我将md文件中带上了我想要记录的东西
